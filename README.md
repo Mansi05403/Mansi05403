@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi05403&label=Profile%20views&color=0e75b6&style=flat" alt="mansi05403" /> </p>
 
-- 🌱 I’m currently learning **MySQL,DBMS(Database Management System)**
+- 🌱 I’m currently learning **MySQL,DBMS(Database Management System) and enhancing my problem solving skills in the field of Competitive Programming and Data Structures**
 
 - 📫 How to reach me **mansiagar05@gmail.com**
 
-- 📄 Know about responsibilities [I'm currently working as technical coordinator in Light Raipur and in Finance and Consulting Club of NITRR. I'm coordinator in Nrityam the Dance Club of NITRR.](I'm currently working as technical coordinator in Light Raipur and in Finance and Consulting Club of NITRR. I'm coordinator in Nrityam the Dance Club of NITRR.)
+- 📄 Know about responsibilities I'm currently working as technical coordinator in Light Raipur and in Finance and Consulting Club of NITRR. I'm coordinator in Nrityam the Dance Club of NITRR.I'm currently working as technical coordinator in Light Raipur and in Finance and Consulting Club of NITRR. I'm coordinator in Nrityam the Dance Club of NITRR.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
